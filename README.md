@@ -1,18 +1,4 @@
-Curious about what Notion is? We'll show you right here, and in the articles to come. Let's go! 📍
-We like to describe Notion as a set of building blocks for creating things you love to use on your computer, such as:
-
-Documents
-
-Databases
-
-Public websites
-
-Knowledge bases
-
-Project management systems
-
-The world's most beautiful notes... 😉
-
-Notion is different from other software in a few ways. And once you master these basics, you can pretty much build whatever you want.
-
-Most importantly, don't worry about not knowing everything you can do right away. We'll discover it together. Click below to dive right in!
+基于上面三点看法，可以预测，如果中国人均 GDP 继续增长，到了2035年比现在增长一倍，那么中国各地的生活条件都会达到一个相当不错的水平。
+目前，全国的人均 GDP 大概是1万美元，一线城市是2万多美元。到了2035年，如果全国人均 GDP 能够达到2万美元，一线城市达到五万美元，这就意味着，一线城市普通人的生活水平相当于现在发达国家大城市的水平，而各省的主要城市能够达到目前北京上海的水平。
+当然，实现这个目标的难度是很大的。只有每年增长速度不低于4.7%，连续15年，那么 GDP 可以翻一倍。但是，中国的人口已经停止增长了，人力成本也不低了，以后再想高速增长，必须依靠知识创新，而中国民众的科技知识水平并不乐观。
+假使我们能够实现这个目标，那么到了2035年，不管生活在哪个省，都能享受现代化的、有质量、比较舒适的生活。
